@@ -1,6 +1,6 @@
-baseURL = "gethugothemes.com"
+baseURL = "abhaysinghbhosale.github.io"
 theme = "dot"
-publishDir = "newdocs"
+publishDir = "docs"
 
 [params]
 primaryColor = "#02007e"
