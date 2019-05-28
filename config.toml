@@ -1,4 +1,4 @@
-baseURL = "docs_poc"
+baseURL = ""
 theme = "dot"
 publishDir = "docs"
 
