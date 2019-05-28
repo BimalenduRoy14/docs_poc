@@ -3,348 +3,348 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/installation/requirments/</loc>
+    <loc>docs_poc/fr/installation/requirments/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/installation/requirments/"
+                href="docs_poc/installation/requirments/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/installation/requirments/"
+                href="docs_poc/fr/installation/requirments/"
                 />
   </url>
   
   <url>
-    <loc>/fr/installation/install/</loc>
+    <loc>docs_poc/fr/installation/install/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/installation/install/"
+                href="docs_poc/installation/install/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/installation/install/"
+                href="docs_poc/fr/installation/install/"
                 />
   </url>
   
   <url>
-    <loc>/fr/installation/configuration/</loc>
+    <loc>docs_poc/fr/installation/configuration/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/installation/configuration/"
+                href="docs_poc/installation/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/installation/configuration/"
+                href="docs_poc/fr/installation/configuration/"
                 />
   </url>
   
   <url>
-    <loc>/fr/billing-pricing/ownership/</loc>
+    <loc>docs_poc/fr/billing-pricing/ownership/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/billing-pricing/ownership/"
+                href="docs_poc/billing-pricing/ownership/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/billing-pricing/ownership/"
+                href="docs_poc/fr/billing-pricing/ownership/"
                 />
   </url>
   
   <url>
-    <loc>/fr/installation/customization/</loc>
+    <loc>docs_poc/fr/installation/customization/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/installation/customization/"
+                href="docs_poc/installation/customization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/installation/customization/"
+                href="docs_poc/fr/installation/customization/"
                 />
   </url>
   
   <url>
-    <loc>/fr/</loc>
+    <loc>docs_poc/fr/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="docs_poc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="docs_poc/fr/"
                 />
   </url>
   
   <url>
-    <loc>/fr/billing-pricing/bill/</loc>
+    <loc>docs_poc/fr/billing-pricing/bill/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/billing-pricing/bill/"
+                href="docs_poc/billing-pricing/bill/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/billing-pricing/bill/"
+                href="docs_poc/fr/billing-pricing/bill/"
                 />
   </url>
   
   <url>
-    <loc>/fr/installation/</loc>
+    <loc>docs_poc/fr/installation/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/installation/"
+                href="docs_poc/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/installation/"
+                href="docs_poc/fr/installation/"
                 />
   </url>
   
   <url>
-    <loc>/fr/features/linux/</loc>
+    <loc>docs_poc/fr/features/linux/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/features/linux/"
+                href="docs_poc/features/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/features/linux/"
+                href="docs_poc/fr/features/linux/"
                 />
   </url>
   
   <url>
-    <loc>/fr/features/mac/</loc>
+    <loc>docs_poc/fr/features/mac/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/features/mac/"
+                href="docs_poc/features/mac/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/features/mac/"
+                href="docs_poc/fr/features/mac/"
                 />
   </url>
   
   <url>
-    <loc>/fr/billing-pricing/manage/</loc>
+    <loc>docs_poc/fr/billing-pricing/manage/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/billing-pricing/manage/"
+                href="docs_poc/billing-pricing/manage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/billing-pricing/manage/"
+                href="docs_poc/fr/billing-pricing/manage/"
                 />
   </url>
   
   <url>
-    <loc>/fr/billing-pricing/payment/</loc>
+    <loc>docs_poc/fr/billing-pricing/payment/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/billing-pricing/payment/"
+                href="docs_poc/billing-pricing/payment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/billing-pricing/payment/"
+                href="docs_poc/fr/billing-pricing/payment/"
                 />
   </url>
   
   <url>
-    <loc>/fr/features/routing/</loc>
+    <loc>docs_poc/fr/features/routing/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/features/routing/"
+                href="docs_poc/features/routing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/features/routing/"
+                href="docs_poc/fr/features/routing/"
                 />
   </url>
   
   <url>
-    <loc>/fr/features/ubuntu/</loc>
+    <loc>docs_poc/fr/features/ubuntu/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/features/ubuntu/"
+                href="docs_poc/features/ubuntu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/features/ubuntu/"
+                href="docs_poc/fr/features/ubuntu/"
                 />
   </url>
   
   <url>
-    <loc>/fr/billing-pricing/profile/</loc>
+    <loc>docs_poc/fr/billing-pricing/profile/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/billing-pricing/profile/"
+                href="docs_poc/billing-pricing/profile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/billing-pricing/profile/"
+                href="docs_poc/fr/billing-pricing/profile/"
                 />
   </url>
   
   <url>
-    <loc>/fr/features/windows/</loc>
+    <loc>docs_poc/fr/features/windows/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/features/windows/"
+                href="docs_poc/features/windows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/features/windows/"
+                href="docs_poc/fr/features/windows/"
                 />
   </url>
   
   <url>
-    <loc>/fr/billing-pricing/</loc>
+    <loc>docs_poc/fr/billing-pricing/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/billing-pricing/"
+                href="docs_poc/billing-pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/billing-pricing/"
+                href="docs_poc/fr/billing-pricing/"
                 />
   </url>
   
   <url>
-    <loc>/fr/features/</loc>
+    <loc>docs_poc/fr/features/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/features/"
+                href="docs_poc/features/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/features/"
+                href="docs_poc/fr/features/"
                 />
   </url>
   
   <url>
-    <loc>/fr/contact/</loc>
+    <loc>docs_poc/fr/contact/</loc>
     <lastmod>2018-12-27T09:10:27+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="docs_poc/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/contact/"
+                href="docs_poc/fr/contact/"
                 />
   </url>
   
   <url>
-    <loc>/fr/elements/</loc>
+    <loc>docs_poc/fr/elements/</loc>
     <lastmod>2018-12-27T09:10:27+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/elements/"
+                href="docs_poc/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/elements/"
+                href="docs_poc/fr/elements/"
                 />
   </url>
   
   <url>
-    <loc>/fr/faq/</loc>
+    <loc>docs_poc/fr/faq/</loc>
     <lastmod>2018-12-27T09:10:27+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faq/"
+                href="docs_poc/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/faq/"
+                href="docs_poc/fr/faq/"
                 />
   </url>
   
   <url>
-    <loc>/fr/categories/</loc>
+    <loc>docs_poc/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="docs_poc/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="docs_poc/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/</loc>
+    <loc>docs_poc/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="docs_poc/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="docs_poc/fr/tags/"
                 />
   </url>
   
