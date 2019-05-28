@@ -1,4 +1,4 @@
-baseURL = "abhaysinghbhosale.github.io"
+baseURL = "/"
 theme = "dot"
 publishDir = "docs"
 
